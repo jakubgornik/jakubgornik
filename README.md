@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**jakubgornik/jakubgornik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h3 align="center">As a frontend developer, my dream role is to work in a fast-paced and innovative environment where I can use my skills to develop cutting-edge web applications that deliver smooth user experiences</h3>
 
 - 🌱 I’m currently learning **Typescript and Next.js**
