@@ -1,4 +1,4 @@
-##Greetings!
+
 
 🌱 I’m currently learning **Typescript and Next.js**
 
