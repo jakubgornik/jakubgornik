@@ -1,14 +1,13 @@
-<div style="text-align: center;">
-  <div style="width: 80%; margin: 0 auto;">
-    <h2>About Me</h2>
-    <p>Hello there, 👋</p>
-    <p>I'm a dedicated junior frontend developer with practical experience in creating web applications. I approach challenges with dedication and strive to expand my skills by exploring new technologies. I possess a keen eye for design and take pleasure in developing modern, practical applications. With strong organizational skills and a high level of motivation, I am committed to delivering impactful solutions.</p>
-  </div>
-</div>
+## About Me
+
+Hello there, 👋
+
+I'm a dedicated junior frontend developer with practical experience in creating web applications. I approach challenges with dedication and strive to expand my skills by exploring new technologies. I possess a keen eye for design and take pleasure in developing modern, practical applications. With strong organizational skills and a high level of motivation, I am committed to delivering impactful solutions.
 
 ## Education
 
-🎓 Graduate in Automation and Robotics Engineering from the Silesian University of Technology, Faculty of Automatic Control, Electronics, and Computer Science
+Graduate in Automation and Robotics Engineering <br/>
+Silesian University of Technology, Faculty of Automatic Control, Electronics, and Computer Science
 
 ## My technical competences
 
