@@ -1,5 +1,67 @@
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,materialui,tailwind,git,figma" />
-</p>
+<div style="text-align: center;">
+  <div style="width: 80%; margin: 0 auto;">
+    <h2>About Me</h2>
+    <p>Hello there, 👋</p>
+    <p>I'm a dedicated junior frontend developer with practical experience in creating web applications. I approach challenges with dedication and strive to expand my skills by exploring new technologies. I possess a keen eye for design and take pleasure in developing modern, practical applications. With strong organizational skills and a high level of motivation, I am committed to delivering impactful solutions.</p>
+  </div>
+</div>
+
+## Education
+
+🎓 Graduate in Automation and Robotics Engineering from the Silesian University of Technology, Faculty of Automatic Control, Electronics, and Computer Science
+
+## My technical competences
+
+As a junior frontend developer, I've acquired proficiency in a variety of technologies, tools, and libraries that contribute to developing web applications. Here's a list of key technologies and tools I work with:
+
+<div style="display: flex; justify-content: center; width: 80%;">
+  <div style="display: flex; justify-content: space-between; width: 100%;">
+    <div>
+      <h3>Languages & frameworks</h3>
+      <div>
+                  <img src="https://img.icons8.com/color/40/000000/nextjs.png" height="40" style="margin-right: 5px;"/>
+                  <img src="https://img.icons8.com/color/40/000000/react-native.png" height="40" style="margin-right: 5px;"/>
+        <img src="https://img.icons8.com/color/40/000000/typescript.png" height="40" style="margin-right: 5px;"/>
+        <img src="https://img.icons8.com/color/40/000000/javascript.png" height="40" style="margin-right: 5px;"/>
+        <img src="https://img.icons8.com/color/40/000000/vue-js.png" height="40" style="margin-right: 5px;"/>
+        <img src="https://img.icons8.com/color/40/000000/nodejs.png" height="40" style="margin-right: 5px;"/>
+        <img src="https://img.icons8.com/color/40/000000/html-5.png" height="40" style="margin-right: 5px;"/>
+        <img src="https://img.icons8.com/color/40/000000/css3.png" height="40" style="margin-right: 5px;"/>
+      </div>
+    </div>
+    <div>
+      <h3>Tools & other</h3>
+      <div>
+        <img src="https://img.icons8.com/color/40/000000/git.png" height="40" style="margin-right: 5px;"/>
+        <img src="https://img.icons8.com/color/40/000000/figma.png" height="40" style="margin-right: 5px;"/>
+        <img src="https://img.icons8.com/color/40/000000/storybook.png" height="40" style="margin-right: 5px;"/>
+        <img src="https://img.icons8.com/color/40/000000/firebase.png" height="40" style="margin-right: 5px;"/>
+        <img src="https://img.icons8.com/color/40/000000/mongodb.png" height="40" style="margin-right: 5px;"/>
+      </div>
+    </div>
+    <div>
+      <h3>Styling</h3>
+      <div>
+        <img src="https://img.icons8.com/color/40/000000/tailwindcss.png" height="40" style="margin-right: 5px;"/>
+        <img src="https://img.icons8.com/color/40/000000/material-ui.png" height="40" style="margin-right: 5px;"/>
+        <img src="https://img.icons8.com/color/40/000000/sass.png" height="40" style="margin-right: 5px;"/>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+## Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/jakub-gornik)
+- [jakub.gornikk@outlook.com](mailto:jakub.gornikk@outlook.com)
+
+## Currently, I'm focusing on
+
+- Learning Testing
+- Deepening my understanding of Next.js
+- Exploring advanced Typescript concepts
 
