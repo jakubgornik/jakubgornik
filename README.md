@@ -11,7 +11,6 @@ Silesian University of Technology, Faculty of Automatic Control, Electronics, an
 
 ## My technical competences
 
-As a junior frontend developer, I've acquired proficiency in a variety of technologies, tools, and libraries that contribute to developing web applications. Here's a list of key technologies and tools I work with:
 
 <div style="display: flex; justify-content: center; width: 80%;">
   <div style="display: flex; justify-content: space-between; width: 100%;">
@@ -25,7 +24,6 @@ As a junior frontend developer, I've acquired proficiency in a variety of techno
         <img src="https://img.icons8.com/color/40/000000/vue-js.png" height="40" style="margin-right: 5px;"/>
         <img src="https://img.icons8.com/color/40/000000/nodejs.png" height="40" style="margin-right: 5px;"/>
         <img src="https://img.icons8.com/color/40/000000/html-5.png" height="40" style="margin-right: 5px;"/>
-        <img src="https://img.icons8.com/color/40/000000/css3.png" height="40" style="margin-right: 5px;"/>
       </div>
     </div>
     <div>
@@ -44,6 +42,7 @@ As a junior frontend developer, I've acquired proficiency in a variety of techno
         <img src="https://img.icons8.com/color/40/000000/tailwindcss.png" height="40" style="margin-right: 5px;"/>
         <img src="https://img.icons8.com/color/40/000000/material-ui.png" height="40" style="margin-right: 5px;"/>
         <img src="https://img.icons8.com/color/40/000000/sass.png" height="40" style="margin-right: 5px;"/>
+        <img src="https://img.icons8.com/color/40/000000/css3.png" height="40" style="margin-right: 5px;"/>
       </div>
     </div>
   </div>
@@ -60,7 +59,10 @@ As a junior frontend developer, I've acquired proficiency in a variety of techno
 
 ## Currently, I'm focusing on
 
-- Learning Testing
+- Learning Node.js with Express.js
 - Deepening my understanding of Next.js
-- Exploring advanced Typescript concepts
+- Learning and utilizing Content Management Systems
+- Expanding my knowledge in software testing
+
+
 
